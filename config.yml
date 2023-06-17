@@ -45,15 +45,15 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
+    favicon: "/richard.jpg"
     favicon16x16: "<link / abs url>"
     favicon32x32: "<link / abs url>"
     apple_touch_icon: "<link / abs url>"
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
-    icon: richard.jpg
+    text: ""
+    icon: "/richard.jpg"
     iconHeight: 35
 
   # profile-mode
@@ -82,12 +82,16 @@ params:
     - name: linkedin
       url: "https://www.linkedin.com/in/compscikaran/"
 
+  projects:
+    - name: 'DuxJava'
+      description: 'Redux like unidirectional state management implementation for Java.'
+      url: 'https://github.com/compscikaran/dux-java/wiki'
+    - name: 'ReactDynamics'
+      description: 'Collect Component level usage metrics for React'
+      url: 'https://github.com/compscikaran/react-dynamics/wiki'
+
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
       SiteVerificationTag: "XYZabc"
 
   cover:
