@@ -23,14 +23,14 @@ Throughout the many TV series hosted by Ramsay, a key thing he highlights is his
 ## Less is More
 A Michelin star dish doesn’t have to be complicated with tons of different components. It does not have to be piled high with tons of food. It could be made with as little as three ingredients but still showcase the freshness and quality of the produce used. The additional components must serve a purpose whether it be visual appeal or elevating the flavor of the star ingredient. Despise redundant components. Editing and refining is what sets a apart the best dishes from the rest.
 
-## Calling out Bullshit — A lesson in Professionalism
+## Calling out Bullshit
 >In the kitchen, you have a level of expectancy, you know who you work for and you know what he expects of you. But if you always ensure that the product you are delivering is what he wants, you’ll be in his good graces forever 
 >
 > — <cite>Maria Tampakis</cite>
 
 Often Gordon’s controversial commentary comes from a place of brutal honesty and a desire to do things right. In one of his flagship TV shows (Kitchen Nightmares) Gordon goes around the country visiting restaurants. He tastes the food, observes the service, checks all the kitchen freezers, and assesses overall what has gone wrong at that place. He then goes on to give the owners & chefs a reality check.
 
-## Understanding People — A lesson in Management
+## Understanding People
 
 On Hell’s Kitchen Gordon is looking for a head chef for his new restaurant, the contestants are professional chefs, sous chefs, or even executive chefs at other establishments. This means that he expects a certain level of competency from them. When someone puts up raw meat or overcooks a piece of fish, over-season food, or on occasion even burns things, he goes berserk and berates them in front of everyone.
 

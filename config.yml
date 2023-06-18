@@ -14,6 +14,7 @@ minify:
   disableXML: true
   minifyOutput: true
 
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: ExampleSite
@@ -74,20 +75,22 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Karan Gupta"
-    Content: "Software Engineering, Design & Architecture, UX"
+    Content: "Crafting software. Thoughts and musings are my own."
 
   socialIcons:
     - name: github
       url: "https://github.com/compscikaran"
     - name: linkedin
       url: "https://www.linkedin.com/in/compscikaran/"
+    - name: rss
+      url: "./index.xml"
 
   projects:
     - name: 'DuxJava'
-      description: 'Redux like unidirectional state management implementation for Java.'
+      description: 'Unidirectional reduce store implementation for Java.'
       url: 'https://github.com/compscikaran/dux-java/wiki'
     - name: 'ReactDynamics'
-      description: 'Collect Component level usage metrics for React'
+      description: 'Component level usage metrics collection for React'
       url: 'https://github.com/compscikaran/react-dynamics/wiki'
 
   analytics:
