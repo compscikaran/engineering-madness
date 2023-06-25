@@ -75,7 +75,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Karan Gupta"
-    Content: "Building software for fun and money. Fan of simplicity. Focus on Product thinking and UX"
+    Content: "Building software for fun and money. Fan of Simplicity, Product Mindset and UX"
 
   socialIcons:
     - name: github
