@@ -7,6 +7,7 @@ summary: "Parallels between cooking industry and software development"
 ## Its not about where you come from, Its about who you are
 
 Gordon comes from very humble beginnings, living in a low-income housing project he and his family of 6 stayed in a tiny single-bedroom apartment. His parents went through a divorce during his childhood. So engrossed himeself in football as an escape mechanism, playing as a left-back for Oxford United. He was spotted by a Rangers scout and almost made it to professional level but his career was cut short due to a horrific knee injury. With his footaball career in tatters, he decided to pursue a career in cooking to escape the hurt and disappointment.
+![](/gordon-ramsay.jpg)
 
 ## Maintaining Standards
 
