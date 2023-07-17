@@ -75,15 +75,13 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Karan Gupta"
-    Content: "Building software for fun and money. Fan of Simplicity, Product Mindset and UX"
+    Content: "Software Engineer @ UBS | UX | Software Architecture"
 
   socialIcons:
     - name: github
       url: "https://github.com/compscikaran"
-    - name: linkedin
-      url: "https://www.linkedin.com/in/compscikaran/"
-    - name: rss
-      url: "./index.xml"
+    - name: threads
+      url: "https://www.threads.net/@compscikaran"
 
   projects:
     - name: 'DuxJava'

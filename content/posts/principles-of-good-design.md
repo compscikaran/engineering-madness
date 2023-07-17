@@ -46,4 +46,6 @@ Not every software projects needs to be broken up into microservices and deploye
 ## Good Design is As Little Design As Possible
 >Less, but better 
 
-Well crafted software concentrates on the essential aspects, and it is not burdened with non-essentials, gimicks or fluff. 
+Well crafted software concentrates on the essential aspects, and it is not burdened with non-essentials, gimicks or fluff. Over engineering solutions only increases the complexity of a codebase. This complexity shows itself in maintenance costs, feature development times and defects. Next time you’re working on a new piece of functionality, think about what really needs your design input, and what’s already been solved for you. The fewer moving parts you have, the less there is to go wrong.
+
+
