@@ -25,7 +25,7 @@ What do managers care about the most? Productivity. Cloud providers marketed the
 
 Microsoft is the best case of how developer relations can be a trojan horse with which these cloud providers enter into a corporation. They buy up popular tools (GitHub) or make them like (VS Code) and they can build easy to use integrations with there proprietary services. They can make their proprietary solutions appear easy to use with friendly documentations, youtube videos and conference talks while hiding the cracks in their solutions.
 
-Another neat trick is certifications. Props to whoever came up with this idea, I can literally imaging the management folks salivating at the pitch. "So you are telling people will give us money and we will in turn give them a piece of paper that makes them feel good about themselves. They will then go on to evangelize our proprietary products and spread the word for free." 
+Another neat trick is certifications. Props to whoever came up with this idea, I can literally imaging the management folks salivating at the pitch. "So you are telling us that people will give us money and we will in turn give them a piece of paper that makes them feel good about themselves. They will then go on to evangelize our proprietary products giving us free marketing." 
 ![bezos](/bezos.webp)
 
 ## Then they came for me & there was no-one left
