@@ -75,7 +75,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Karan Gupta"
-    Content: "Software Engineer @ UBS | UX | Software Architecture"
+    Content: "Software Engineer | UX | Software Architecture"
 
   socialIcons:
     - name: github
