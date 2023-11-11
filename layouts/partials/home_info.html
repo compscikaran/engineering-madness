@@ -1,22 +1,22 @@
 {{- with site.Params.homeInfoParams }}
-<article class="first-entry home-info">
+<article class="home-info">
     <header class="entry-header">
-        <h1>{{ .Title | markdownify }}</h1>
+        <h1>{{ .Title | markdownify }} <a href="{{ .Link }}">{{ .Name }}</a></h1><br/><br/>
     </footer>
     </header>
-    <div class="entry-content">
+    <!-- <div class="entry-content">
         {{ .Content | markdownify }}
         {{ partial "social_icons.html" site.Params.socialIcons }}
-    </div>
+    </div> -->
     
-    <div class="entry-content">
+    <!-- <div class="entry-content">
         <h3>Some of my work</h3>
         {{ partial "projects.html" site.Params.projects }}
     </div>
 
     <div class="entry-content">
         <h3>Thoughts and Musings</h3>
-    </div>
+    </div> -->
         
 </article>
 {{- end -}}
