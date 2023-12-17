@@ -1,14 +1,13 @@
 {{- with site.Params.homeInfoParams }}
 <article class="home-info">
     <header class="entry-header">
-        <h1>{{ .Title | markdownify }} <a href="{{ .Link }}">{{ .Name }}</a></h1><br/><br/>
+        <h1>{{ .Title | markdownify }}</h1><br/>
     </footer>
     </header>
-    <!-- <div class="entry-content">
-        {{ .Content | markdownify }}
-        {{ partial "social_icons.html" site.Params.socialIcons }}
-    </div> -->
-    
+    <div class="entry-content">
+        {{ .Name }}
+    </div>
+    <br/>
     <!-- <div class="entry-content">
         <h3>Some of my work</h3>
         {{ partial "projects.html" site.Params.projects }}

@@ -53,7 +53,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "@compscikaran"
+    text: "Engineering Madness"
     icon: "/richard.jpg"
     iconHeight: 35
 
@@ -74,9 +74,9 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Engineering Madness by "
+    Title: "Karan Gupta"
     Content: ""
-    Name: "Karan Gupta"
+    Name: ""
     Link: "https://github.com/compscikaran"
 
   # socialIcons:
