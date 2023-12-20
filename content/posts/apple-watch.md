@@ -1,7 +1,7 @@
 ---
 title: "Saving to buy an Apple watch ? Don’t"
 date: 2023-12-17T11:42:10+05:30
-draft: false
+draft: true
 summary: "Be classic instead"
 ---
 
