@@ -29,16 +29,8 @@ For the unfamiliar with the innards of watches there are different types of mech
 
 **A Rant on Fashion Watches and Drop-shipped brands**
 
-Fashion watches are watches which are sold by companies that don’t actually make watches and are into other segments like clothes, bags etc. Some common examples are watches from Armani Exchange, Hugo Boss and Fossil. Other companies such as MVMT and Daniel Wellington take cheap watches from China which you can find on Alibaba and slap their logo on it and market the hell out of them. These watches are soldat a high markup and are not even worth a 10th of the cost. These watches may entice you with beautiful designs but do not fall for their trap as these are complete garbage and money making scams.
+Fashion watches are watches which are sold by companies that don’t actually make watches and are into other segments like clothing, handbags etc, some common examples being Armani Exchange, Hugo Boss and Fossil. Other companies such as MVMT and Daniel Wellington take cheap watches from China which you can find on Alibaba, slap their logo on it and market them on instagram. These watches are sold at a high markup and are not even worth a 10th of the cost. These watches may entice you with beautiful designs but do not fall for their trap as these are complete money making scams. Always go for trusted brands who have a demonstrated history in the watch industry such as the likes of Casio, Timex, Titan on the lower end and Alba, Seiko, Orient, Tissot on the higher end.
 
-### Legendary Brands
-**Casio** is one of the oldest and most well respected watchmakers based out of Japan. The company was founded in 1950s mostly being involved into making calculators and mechanical parts but it started making watches in the 1970s. They focus mostly on quartz models which show exceptionally high quality control, The second hand accurately hits the markers and their dial alignments are near perfection.
-
-**Timex** is literally the oldest watchmaker in the world. Established in 1854 in the United states. The official suppliers of watches to the US military in World war 1, Timex is not considered usually when luxury brands are discussed but they live true to their founding mission of providing affordable options for the masses. They do have amazing quartz designs in the budget segment with great value for money. 
-
-**Seiko** is most well known for being the company that brought the first quartz watch to market. Nowadays they mostly make quality mechanical watches and their movements are also used by many other brands to make premium watches. Hailing from Japan, Seiko was founded in 1881. They design and develop all the components of their watch making them one of the very few vertically integrated brands. Seiko also computer printers and calculators under the name Epson.
-
-**Orient** is also a legendary watchmaker from Japan founded in 1950. They often come with unique vintage looks, are extremely high quality and use inhouse manufactured movements. Orient is owned fully by Epson corporation which means they have deep links with Seiko as well. They usually lean more towards very vintage designs and are hence suitable for mainly formal occasions.
 
 ### Timepieces
 
