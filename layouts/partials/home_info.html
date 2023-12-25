@@ -1,18 +1,32 @@
 {{- with site.Params.homeInfoParams }}
 <article class="home-info">
     <header class="entry-header">
-        <h1>{{ .Title | markdownify }}</h1><br/>
+        <h1>{{ .Title | markdownify }}</h1>
     </footer>
     </header>
     <div class="entry-content">
         {{ .Name }}
     </div>
-    <br/>
-    <!-- <div class="entry-content">
-        <h3>Some of my work</h3>
-        {{ partial "projects.html" site.Params.projects }}
+     <div class="entry-content" style="font-size: 16px;">
+        <p>I work as a Software engineer and practice my craft at <a href="https://www.ubs.com">UBS</a>, 
+            a financial services company.
+        </p>
+        <p>Sometimes you may find me tinkering on some hobby projects on GitHub 
+            <a href="https://github.com/compscikaran">@compscikaran</a>
+        </p>
+        <br/>
+        <p>
+            <b>My Software Design Philosophy - </b>
+            <ol>
+                <li>Simplicity over Complexity</li>
+                <li>Moderation over Extreme choices</li>
+                <li>Research / Evidence backed decision making over Conjecture</li>
+            </ol>
+        </p>
     </div>
-
+    <br/>
+    <br/>
+<!--
     <div class="entry-content">
         <h3>Thoughts and Musings</h3>
     </div> -->
