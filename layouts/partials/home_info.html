@@ -1,29 +1,9 @@
 {{- with site.Params.homeInfoParams }}
 <article class="home-info">
-    <header class="entry-header">
-        <h1>{{ .Title | markdownify }}</h1>
-    </footer>
-    </header>
-    <div class="entry-content">
-        {{ .Name }}
-    </div>
-     <div class="entry-content" style="font-size: 16px;">
-        <p>I work as a Software engineer and practice my craft at <a href="https://www.ubs.com">UBS</a>, 
-            a financial services company.
-        </p>
-        <p>Sometimes you may find me tinkering on some hobby projects on GitHub 
-            <a href="https://github.com/compscikaran">@compscikaran</a>
-        <br/><ol>
-                <li>Life is hard enough, Keep it simple</li>
-                <li>Understand the context of your problem & Apply moderation in solution</li>
-                <li>Prototyping beats all arguments and conjecture</li>
-        </p>
+    <div class="entry-header">
+        <p>{{ .Name | markdownify }}</p>
     </div>
     <br/>
-<!--
-    <div class="entry-content">
-        <h3>Thoughts and Musings</h3>
-    </div> -->
-        
+    <br/>
 </article>
 {{- end -}}

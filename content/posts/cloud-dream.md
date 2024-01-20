@@ -3,6 +3,7 @@ title: "I Have a Cloud Dream"
 date: 2023-07-18T15:21:43+05:30
 draft: false
 summary: "False hopes and the Cloud Migration Epidemic"
+pinned: false
 ---
 
 We were sold a dream, No more worrying about hardware provisioning time, patching infrastructure, monitoring and maintenance.

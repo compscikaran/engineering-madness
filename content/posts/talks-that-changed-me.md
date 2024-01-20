@@ -3,6 +3,7 @@ title: "Talks That Changed Me"
 date: 2023-02-04T12:56:40+05:30
 draft: false
 summary: "A list of a few talks that I feel had a tremendous impact on the way I think about my craft"
+pinned: false
 ---
 
 ## Writing Software by David Heinemeier Hansson

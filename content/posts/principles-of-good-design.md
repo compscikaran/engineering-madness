@@ -3,6 +3,7 @@ title: "Principles of Good Design from Dieter Rams"
 date: 2023-06-24T15:16:44+05:30
 draft: false
 summary: "Ideas from product design in context of software development"
+pinned: false
 ---
 
 ## Who is Dieter Rams ?

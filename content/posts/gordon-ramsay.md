@@ -3,6 +3,7 @@ title: "Programming Advice from Gordon Ramsay"
 date: 2023-06-17T10:40:54+05:30
 draft: false
 summary: "Parallels between cooking industry and software development"
+pinned: true
 ---
 ## Its not about where you come from, Its about who you are
 
