@@ -10,7 +10,7 @@ pinned: false
 
 **Greenlights - Written and Narrated by Matthew McConaughey**
 
-Academy award winner actor extraordinaire, whole heartedly texan, an advocate for sensible gun laws.
+Academy award winner actor extraordinaire and an advocate for sensible gun laws. This book originated from diaries and journals McConaughey began writing when he was fourteen years old.
 ![](/greenlights.jpg)
 
 **Steve Jobs - Written by Walter Isaacson, Narrated by Dylan Baker**
@@ -21,7 +21,7 @@ Do I really need to give an introduction !
 
 **Can't Hurt Me - Written and Narrated by David Goggins**
 
-A seemingly ordinary man who decided to take an unconventional path. Navy Seal, ultramarathon runner, firefighter.
+A seemingly ordinary man from a extremely unfavourable surroundings went on to take an unconventional path. He is a renowned author, former Navy Seal, Ultramarathon runner and cyclist.
 ![](/davidgoggins.jpg)
 
 
