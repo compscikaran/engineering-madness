@@ -1,5 +1,5 @@
 ---
-title: "A Treatise on Software Project Management (Part 1)"
+title: "A Treatise on Software Development Process (Part 1)"
 date: 2024-04-04T20:22:02+05:30
 draft: false
 pinned: false
