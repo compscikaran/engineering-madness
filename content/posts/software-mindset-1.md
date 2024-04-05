@@ -3,7 +3,7 @@ title: "A Treatise on Software Project Management (Part 1)"
 date: 2024-04-04T20:22:02+05:30
 draft: false
 pinned: false
-summary: "introspections and theories on why most software projects are dysfunctional"
+summary: "Introspections on why most software projects are dysfunctional"
 ---
 
 ## Setting the context
