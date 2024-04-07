@@ -3,7 +3,7 @@ title: "A Treatise on Software Development Process (Part 2)"
 date: 2024-04-07T11:34:15+05:30
 draft: false
 pinned: false
-summary: "Introspections on why most software projects are dysfunctional"
+summary: "The Way"
 ---
 
 ## Setting the context
