@@ -55,7 +55,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Engineering Madness by Karan Gupta"
+    text: "Engineering Madness"
     icon: "/richard.jpg"
     iconHeight: 35
 
