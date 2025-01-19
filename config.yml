@@ -1,6 +1,5 @@
 baseURL: "https://engineeringmadness.dev/"
 title: Engineering Madness - A blog by Karan Gupta
-paginate: 5
 theme: PaperMod
 
 enableRobotsTXT: true
