@@ -75,9 +75,9 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Karan Gupta"
+    Title: ""
     Name: ""
-    Link: "https://github.com/compscikaran"
+    Link: ""
 
   # socialIcons:
   #   - name: github
