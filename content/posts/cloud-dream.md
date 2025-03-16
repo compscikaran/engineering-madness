@@ -6,7 +6,10 @@ summary: "False hopes and the Cloud Migration Epidemic"
 pinned: false
 ---
 
+![](/banner4.png)
+
 We were sold a dream, No more worrying about hardware provisioning time, patching infrastructure, monitoring and maintenance.
+
 > Are you in the power plant business then why build and maintain a Data center? Move to the cloud and just use the power of others
 
 One of the most influential trends that we see in the last 10 years that seems to be taking over the industry is migrating all applications from a traditional on-premises setup to a public cloud provider like AWS / Azure / GCP. Many of the fortune 500 decided to begin a massive campaign of moving their applications bit by bit from their own data centers into one of the aforementioned providers. At this very moments millions of dollars are being spent to either lift and shift these application or completely rewrite / re-design these applications to be "Cloud Native" (What does this term even mean really!). Listening to [DHH](https://dhh.dk/)'s recent talk on Cloud exit of Basecamp I began to reflect on my own experiences over the past few years at work. Here are some of the false promises that were sold to us.
