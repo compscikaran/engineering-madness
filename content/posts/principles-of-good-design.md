@@ -11,7 +11,7 @@ pinned: false
 > Indifference towards people and the reality in which they live is actually the one and only cardinal sin in design.
 
 One of the most influential product designers. He is known for his work at the Braun company where he designed many everyday products like radios, calculators, record players, video cameras and even electric shavers. An architect by training he transitioned to designing products under the tutelage of  Fritz Eichler, another influential designer working at Braun. 
-![](/dieter-rams.jpg)
+
 He is an ardent minimalist and is associated with the functionalist school of industrial design which emphasizes on the principle that buildings should be designed based solely on their purpose and function. Rams is also an idol of the infamous Apple designer Jony Ive and many Apple products pay tribute to Rams' work for Braun, including the Calculator App, which references the 1977 ET66 calculator  prior to a redesign. Around the 1970s Rams was contemplating the answer to the question "Is my design a good design?" and the answer he came up with was distilled into his celebrated 10 principles.
 
 ## Good Design is Innovative

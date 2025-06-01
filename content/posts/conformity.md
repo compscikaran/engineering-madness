@@ -6,8 +6,6 @@ pinned: false
 summary: "A path to enlightenment"
 ---
 
-![](/banner2.png)
-
 ## A rant on what we do NOT need
 
 This is a rant that has been in the making for a long time and will not impart any knowledge. If you put architect in your title and get triggered easily then please stop reading. This is a rant about the cult that has taken over engineering organizations at large enterprises. The cult demands toeing the line, using the magic words, reciting the norms, and thinking inside the box. What am I talking about? It's the culture of conformity. The culture of Software Architects. 
